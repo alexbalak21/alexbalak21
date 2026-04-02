@@ -2,8 +2,9 @@
 
 Full‑Stack Web Developer • Backend‑Oriented • Automation & Data Enthusiast
 
-I build clean, maintainable, production‑ready applications using Java (Spring), PHP (Laravel), JavaScript (React), and Python.  
-My background as an avionics engineer gives me a strong foundation in diagnostics, rigor, and problem‑solving.
+I am a passionate web developer specialized in backend applications, and I also build full‑stack solutions with React for the frontend.  
+I work with Java, Python, TypeScript, and PHP.  
+As frameworks, I use Spring Boot, Flask, Django, Laravel, and React.
 
 ---
 
